@@ -1,30 +1,28 @@
 # poetry
-Generating classical Chinese poetry with RNN
-
 Use Recurrent Neural Network and LSTM to generate classical Chinese peotry.
 
 ##
 Some generted samples:
 
-Ë­Î½´ËÊ±¾ø£¬´ºÀ´Ë­ÎÊ·ç¡£
-»Æ½ðÎª¾ÉÓÑ£¬·çÓêÔçÀ´¹é¡£
-¾ÉÒþÒ»ÐÄË®£¬Çï·ç°Ù»¨³¤¡£
-¶À»³µ±µÃÐÐ£¬ÎÞÒÔÄªÏàºÍ¡£
-·ç¶È³î³¤Ô¶£¬Æ½É³È¥Î´³Ù¡£
-ÖÐÏü¶«×÷ÂÂ£¬ÈÕÈÕÈ¥ÒÀÒÀ¡£
+è°è°“æ­¤æ—¶ç»ï¼Œæ˜¥æ¥è°é—®é£Žã€‚<br />
+é»„é‡‘ä¸ºæ—§å‹ï¼Œé£Žé›¨æ—©æ¥å½’ã€‚<br />
+æ—§éšä¸€å¿ƒæ°´ï¼Œç§‹é£Žç™¾èŠ±é•¿ã€‚<br />
+ç‹¬æ€€å½“å¾—è¡Œï¼Œæ— ä»¥èŽ«ç›¸å’Œã€‚<br />
+é£Žåº¦æ„é•¿è¿œï¼Œå¹³æ²™åŽ»æœªè¿Ÿã€‚<br />
+ä¸­å®µä¸œä½œä¾£ï¼Œæ—¥æ—¥åŽ»ä¾ä¾ã€‚<br />
 
-´ºÓê³õ¿ª£¬ÁøÉ«´¹Ïã¡£
-·ç¿ªÀ¼ÉÈÂú£¬Áø·÷±ÌÖ¦´¹¡£
-ÓñÊ÷ÎÞÇåÈÕ£¬·çÇáÎ´¾õÉî¡£
-ÔÆ÷ßÇáÆø²Ê£¬Ê÷Ó°¶ÈÁ±Êè¡£
-»¨ÂäºìË¿Ï¸£¬³ØÌÁ±ÌÊ÷´ß¡£
-¸ßÒ÷´ºÉ«Ô¶£¬Á÷Ë®ÈÆÇàÂ¥¡£
+æ˜¥é›¨åˆå¼€ï¼ŒæŸ³è‰²åž‚é¦™ã€‚<br />
+é£Žå¼€å…°æ‰‡æ»¡ï¼ŒæŸ³æ‹‚ç¢§æžåž‚ã€‚<br />
+çŽ‰æ ‘æ— æ¸…æ—¥ï¼Œé£Žè½»æœªè§‰æ·±ã€‚<br />
+äº‘é¬Ÿè½»æ°”å½©ï¼Œæ ‘å½±åº¦å¸˜ç–ã€‚<br />
+èŠ±è½çº¢ä¸ç»†ï¼Œæ± å¡˜ç¢§æ ‘å‚¬ã€‚<br />
+é«˜åŸæ˜¥è‰²è¿œï¼Œæµæ°´ç»•é’æ¥¼ã€‚<br />
 
-¹ÅÄ¾ÐÄÉÔÏ¾£¬¼Öµº»¹¹â»Ô
-¸æÀé³¯»ýµÀ£¬·÷ÍÐºö¶ÏÒâ
-¸æÒýËÎ±éÀ´£¬º¬×ÌÓûÊª»¨
-ÇïºþÒâÉÐÀä£¬³îÖÀÖÀ¿ÕÉò
-¸æÐÔÔøÁîºÃ£¬Çå¹âÁ½ºÎÈç
+å¤æœ¨å¿ƒç¨æš‡ï¼Œè´¾å²›è¿˜å…‰è¾‰ã€‚<br />
+å‘Šç¯±æœç§¯é“ï¼Œæ‹‚æ‰˜å¿½æ–­æ„ã€‚<br />
+å‘Šå¼•å®‹éæ¥ï¼Œå«æ»‹æ¬²æ¹¿èŠ±ã€‚<br />
+ç§‹æ¹–æ„å°šå†·ï¼Œæ„æŽ·æŽ·ç©ºæ²ˆã€‚<br />
+å‘Šæ€§æ›¾ä»¤å¥½ï¼Œæ¸…å…‰ä¸¤ä½•å¦‚ã€‚<br />
 
 
 
